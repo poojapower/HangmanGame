@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84db185991f75433af771e519163aff1",
+    "revision": "60259038b885f9830647b505c69ef982",
     "url": "/HangmanGames/index.html"
   },
   {
-    "revision": "bb832e99664bcf50c5a5",
+    "revision": "4dc4b5766e89dda8b9ca",
     "url": "/HangmanGames/static/css/main.341a48cd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HangmanGames/static/js/2.90c0c040.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb832e99664bcf50c5a5",
-    "url": "/HangmanGames/static/js/main.dc807aeb.chunk.js"
+    "revision": "4dc4b5766e89dda8b9ca",
+    "url": "/HangmanGames/static/js/main.aa0fd158.chunk.js"
   },
   {
     "revision": "c3cc53c934027d60d21d",
