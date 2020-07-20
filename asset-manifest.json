@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HangmanGames/static/css/main.341a48cd.chunk.css",
+    "main.js": "/HangmanGames/static/js/main.735e12ca.chunk.js",
+    "main.js.map": "/HangmanGames/static/js/main.735e12ca.chunk.js.map",
+    "runtime-main.js": "/HangmanGames/static/js/runtime-main.a037280c.js",
+    "runtime-main.js.map": "/HangmanGames/static/js/runtime-main.a037280c.js.map",
+    "static/js/2.90c0c040.chunk.js": "/HangmanGames/static/js/2.90c0c040.chunk.js",
+    "static/js/2.90c0c040.chunk.js.map": "/HangmanGames/static/js/2.90c0c040.chunk.js.map",
+    "index.html": "/HangmanGames/index.html",
+    "precache-manifest.e532c3ba809fe27359afeac1d649e773.js": "/HangmanGames/precache-manifest.e532c3ba809fe27359afeac1d649e773.js",
+    "service-worker.js": "/HangmanGames/service-worker.js",
+    "static/css/main.341a48cd.chunk.css.map": "/HangmanGames/static/css/main.341a48cd.chunk.css.map",
+    "static/js/2.90c0c040.chunk.js.LICENSE.txt": "/HangmanGames/static/js/2.90c0c040.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/HangmanGames/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a037280c.js",
+    "static/js/2.90c0c040.chunk.js",
+    "static/css/main.341a48cd.chunk.css",
+    "static/js/main.735e12ca.chunk.js"
+  ]
+}
